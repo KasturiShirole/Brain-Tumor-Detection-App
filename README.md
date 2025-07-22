@@ -35,4 +35,8 @@ Schematic diagram of a Convolutional Neural Network (CNN): starting with an inpu
 Source: Wikipedia
 
 Demo video
+https://github.com/user-attachments/assets/70e8e522-8a2c-4640-8505-d5d641957c1e
+
+
+
 
