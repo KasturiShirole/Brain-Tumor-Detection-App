@@ -33,3 +33,6 @@ CNN Architecture:
 Schematic diagram of a Convolutional Neural Network (CNN): starting with an input image, the network applies multiple convolutional layers to detect features, interspersed with subsampling (pooling) layers to reduce dimensionality, and culminates in fully connected layers that lead to the final output classification
 
 Source: Wikipedia
+
+Demo video
+
